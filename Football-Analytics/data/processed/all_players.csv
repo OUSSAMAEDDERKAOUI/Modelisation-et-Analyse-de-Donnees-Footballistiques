@@ -37,8 +37,6 @@ Salah Oulad M'Hand,nl NED,MF,20,0,0,,,,,,,,,,,Arsenal
 Jack Porter,eng ENG,GK,16,0,0,,,,,,,,,,,Arsenal
 Aaron Ramsdale,eng ENG,GK,26,0,0,,,,,,,,,,,Arsenal
 Tommy Setford,eng ENG,GK,18,0,0,,,,,,,,,,,Arsenal
-Squad Total,,,25.8,38,418,3420,38.0,67,55,122,65,2,2,70,6,Arsenal
-Opponent Total,,,26.1,38,418,3420,38.0,34,24,58,31,3,3,83,2,Arsenal
 Emiliano Martínez,ar ARG,GK,31,37,37,3194,35.5,0,0,0,0,0,0,5,1,Aston Villa
 Morgan Rogers,eng ENG,"FW,MF",22,37,37,3114,34.6,8,10,18,8,0,0,10,0,Aston Villa
 Youri Tielemans,be BEL,MF,27,36,35,3026,33.6,3,7,10,3,0,1,4,0,Aston Villa
@@ -73,8 +71,6 @@ Jamaldeen Jimoh,eng ENG,MF,17,0,0,,,,,,,,,,,Aston Villa
 Sil Swinkels,nl NED,DF,20,0,0,,,,,,,,,,,Aston Villa
 Kadan Young,eng ENG,MF,18,0,0,,,,,,,,,,,Aston Villa
 Oliwier Zych,pl POL,GK,20,0,0,,,,,,,,,,,Aston Villa
-Squad Total,,,27.0,38,418,3420,38.0,56,45,101,53,3,6,76,4,Aston Villa
-Opponent Total,,,26.3,38,418,3420,38.0,51,36,87,49,2,3,104,2,Aston Villa
 Milos Kerkez,hu HUN,DF,20,38,38,3336,37.1,2,5,7,2,0,0,4,0,Bournemouth
 Antoine Semenyo,gh GHA,FW,24,37,36,3203,35.6,11,5,16,11,0,0,9,0,Bournemouth
 Illia Zabarnyi,ua UKR,DF,21,36,35,3109,34.5,0,1,1,0,0,0,4,1,Bournemouth
@@ -113,8 +109,6 @@ Hamed Junior Traorè,ci CIV,"FW,MF",24,0,0,,,,,,,,,,,Bournemouth
 Callan Mckenna,sct SCO,GK,17,0,0,,,,,,,,,,,Bournemouth
 Dominic Sadi,eng ENG,MF,20,0,0,,,,,,,,,,,Bournemouth
 Maxwell Wellings,eng ENG,DF,19,0,0,,,,,,,,,,,Bournemouth
-Squad Total,,,25.1,38,418,3420,38.0,57,41,98,51,6,7,97,3,Bournemouth
-Opponent Total,,,26.4,38,418,3420,38.0,46,36,82,42,4,4,94,5,Bournemouth
 Nathan Collins,ie IRL,DF,23,38,38,3420,38.0,2,3,5,2,0,0,5,0,Brentford
 Bryan Mbeumo,cm CMR,FW,24,38,38,3414,37.9,20,7,27,15,5,6,3,0,Brentford
 Mark Flekken,nl NED,GK,31,37,37,3275,36.4,0,2,2,0,0,0,1,0,Brentford
@@ -150,8 +144,6 @@ Aaron Hickey,sct SCO,"DF,MF",22,0,0,,,,,,,,,,,Brentford
 Iwan Morgan,wls WAL,FW,18,0,0,,,,,,,,,,,Brentford
 Myles Peart-Harris,eng ENG,MF,21,0,0,,,,,,,,,,,Brentford
 Tony Yogane,eng ENG,MF,18,0,0,,,,,,,,,,,Brentford
-Squad Total,,,25.8,38,418,3420,38.0,65,44,109,60,5,6,62,1,Brentford
-Opponent Total,,,26.4,38,418,3420,38.0,54,42,96,53,1,1,82,3,Brentford
 Bart Verbruggen,nl NED,GK,21,36,36,3240,36.0,0,1,1,0,0,0,5,0,Brighton
 Jan Paul van Hecke,nl NED,DF,24,34,33,2958,32.9,1,1,2,1,0,0,8,1,Brighton
 Carlos Baleba,cm CMR,MF,20,34,31,2661,29.6,3,1,4,3,0,0,8,1,Brighton
@@ -194,8 +186,6 @@ Imari Samuels,eng ENG,DF,21,0,0,,,,,,,,,,,Brighton
 Freddie Simmonds,eng ENG,DF,16,0,0,,,,,,,,,,,Brighton
 Jacob Slater,ie IRL,DF,19,0,0,,,,,,,,,,,Brighton
 Charlie Tasker,eng ENG,DF,18,0,0,,,,,,,,,,,Brighton
-Squad Total,,,24.8,38,418,3420,38.0,64,41,105,57,7,7,78,3,Brighton
-Opponent Total,,,26.2,38,418,3420,38.0,57,39,96,48,9,9,93,5,Brighton
 Moisés Caicedo,ec ECU,"MF,DF",22,38,38,3351,37.2,1,2,3,1,0,0,11,0,Chelsea
 Cole Palmer,eng ENG,"MF,FW",22,37,36,3191,35.5,15,8,23,11,4,5,7,0,Chelsea
 Levi Colwill,eng ENG,DF,21,35,35,3149,35.0,2,1,3,2,0,0,9,0,Chelsea
@@ -231,8 +221,6 @@ Marcus Bettinelli,eng ENG,GK,32,0,0,,,,,,,,,,,Chelsea
 Cesare Casadei,it ITA,MF,21,0,0,,,,,,,,,,,Chelsea
 Samuel Rak-Sakyi,eng ENG,MF,19,0,0,,,,,,,,,,,Chelsea
 Ishé Samuels-Smith,eng ENG,DF,18,0,0,,,,,,,,,,,Chelsea
-Squad Total,,,23.7,38,418,3420,38.0,61,47,108,57,4,5,101,2,Chelsea
-Opponent Total,,,26.5,38,418,3420,38.0,43,33,76,38,5,6,98,2,Chelsea
 Dean Henderson,eng ENG,GK,27,38,38,3420,38.0,0,0,0,0,0,0,3,0,Crystal Palace
 Daniel Muñoz,co COL,DF,28,37,37,3228,35.9,4,5,9,4,0,0,10,0,Crystal Palace
 Tyrick Mitchell,eng ENG,DF,24,37,37,3092,34.4,0,5,5,0,0,0,2,0,Crystal Palace
@@ -270,8 +258,6 @@ Remi Matthews,eng ENG,GK,30,0,0,,,,,,,,,,,Crystal Palace
 Kaden Rodney,eng ENG,"DF,MF",19,0,0,,,,,,,,,,,Crystal Palace
 Matt Turner,us USA,GK,30,0,0,,,,,,,,,,,Crystal Palace
 Franco Umeh-Chibueze,ie IRL,MF,19,0,0,,,,,,,,,,,Crystal Palace
-Squad Total,,,26.2,38,418,3420,38.0,49,38,87,46,3,4,80,4,Crystal Palace
-Opponent Total,,,26.1,38,418,3420,38.0,48,39,87,47,1,2,84,4,Crystal Palace
 Jordan Pickford,eng ENG,GK,30,38,38,3420,38.0,0,1,1,0,0,0,7,0,Everton
 Vitaliy Mykolenko,ua UKR,DF,25,35,35,3082,34.2,1,2,3,1,0,0,4,0,Everton
 Idrissa Gana Gueye,sn SEN,MF,34,37,35,3063,34.0,0,3,3,0,0,0,9,0,Everton
@@ -307,8 +293,6 @@ Jenson Metcalfe,eng ENG,MF,19,0,0,,,,,,,,,,,Everton
 Martin Sherif,nl NED,FW,18,0,0,,,,,,,,,,,Everton
 João Virgínia,pt POR,GK,24,0,0,,,,,,,,,,,Everton
 Reece Welch,eng ENG,DF,20,0,0,,,,,,,,,,,Everton
-Squad Total,,,28.0,38,418,3420,38.0,39,27,66,37,2,2,82,2,Everton
-Opponent Total,,,26.2,38,418,3420,38.0,44,35,79,44,0,2,46,2,Everton
 Bernd Leno,de GER,GK,32.0,38,38,3420.0,38.0,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Fulham
 Antonee Robinson,us USA,DF,26.0,36,35,3167.0,35.2,0.0,10.0,10.0,0.0,0.0,0.0,8.0,0.0,Fulham
 Alex Iwobi,ng NGA,"FW,MF",28.0,38,35,2981.0,33.1,9.0,6.0,15.0,9.0,0.0,0.0,1.0,0.0,Fulham
@@ -337,8 +321,6 @@ Carlos Vinícius,br BRA,"MF,FW",29.0,3,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.
 Jay Stansfield,eng ENG,MF,21.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
 Samuel Amissah,eng ENG,DF,17.0,0,0,,,,,,,,,,,Fulham
 Steven Benda,de GER,GK,25.0,0,0,,,,,,,,,,,Fulham
-Squad Total,,,28.1,38,418,3420.0,38.0,53.0,44.0,97.0,50.0,3.0,4.0,80.0,2.0,Fulham
-Opponent Total,,,26.3,38,418,3420.0,38.0,52.0,40.0,92.0,49.0,3.0,4.0,67.0,3.0,Fulham
 Dara O'Shea,ie IRL,DF,25,35,35,3122,34.7,0,2,2,0,0,0,6,0,Ipswich Town
 Leif Davis,eng ENG,DF,24,33,32,2743,30.5,1,2,3,1,0,0,5,1,Ipswich Town
 Liam Delap,eng ENG,FW,21,37,32,2593,28.8,12,2,14,10,2,2,12,0,Ipswich Town
@@ -374,8 +356,6 @@ George Edmundson,eng ENG,DF,26,1,0,2,0.0,0,0,0,0,0,0,0,0,Ipswich Town
 Somto Boniface,eng ENG,DF,18,0,0,,,,,,,,,,,Ipswich Town
 Cieran Slicker,sct SCO,GK,21,0,0,,,,,,,,,,,Ipswich Town
 Tom Taylor,,MF,,0,0,,,,,,,,,,,Ipswich Town
-Squad Total,,,25.8,38,418,3420,38.0,35,26,61,33,2,2,93,5,Ipswich Town
-Opponent Total,,,26.3,38,418,3420,38.0,80,55,135,74,6,6,65,2,Ipswich Town
 Jamie Vardy,eng ENG,FW,37,35,35,2823,31.4,9,4,13,8,1,2,5,0,Leicester City
 James Justin,eng ENG,DF,26,36,34,2912,32.4,2,2,4,2,0,0,6,0,Leicester City
 Wout Faes,be BEL,DF,26,34,30,2815,31.3,1,0,1,1,0,0,4,0,Leicester City
@@ -414,8 +394,6 @@ Henry Cartwright,eng ENG,MF,19,0,0,,,,,,,,,,,Leicester City
 Daniel Iversen,dk DEN,GK,27,0,0,,,,,,,,,,,Leicester City
 Benjamin Nelson,eng ENG,DF,20,0,0,,,,,,,,,,,Leicester City
 Thomas Wilson-Brown,eng ENG,DF,19,0,0,,,,,,,,,,,Leicester City
-Squad Total,,,26.6,38,418,3420,38.0,33,25,58,31,2,3,87,0,Leicester City
-Opponent Total,,,26.3,38,418,3420,38.0,77,57,134,74,3,4,58,2,Leicester City
 Mohamed Salah,eg EGY,FW,32.0,38,38,3371.0,37.5,29.0,18.0,47.0,20.0,9.0,9.0,1.0,0.0,Liverpool
 Virgil van Dijk,nl NED,DF,33.0,37,37,3330.0,37.0,3.0,1.0,4.0,3.0,0.0,0.0,5.0,0.0,Liverpool
 Ryan Gravenberch,nl NED,MF,22.0,37,37,3160.0,35.1,0.0,4.0,4.0,0.0,0.0,0.0,6.0,1.0,Liverpool
@@ -445,8 +423,6 @@ James McConnell,eng ENG,MF,19.0,0,0,,,,,,,,,,,Liverpool
 Tyler Morton,eng ENG,MF,21.0,0,0,,,,,,,,,,,Liverpool
 Amara Nallo,eng ENG,DF,17.0,0,0,,,,,,,,,,,Liverpool
 Trey Nyoni,eng ENG,MF,17.0,0,0,,,,,,,,,,,Liverpool
-Squad Total,,,27.2,38,418,3420.0,38.0,85.0,65.0,150.0,76.0,9.0,9.0,67.0,3.0,Liverpool
-Opponent Total,,,26.1,38,418,3420.0,38.0,39.0,28.0,67.0,38.0,1.0,2.0,84.0,2.0,Liverpool
 Joško Gvardiol,hr CRO,DF,22,37,36,3277,36.4,5,0,5,5,0,0,2,0,Manchester City
 Erling Haaland,no NOR,FW,24,31,31,2736,30.4,22,3,25,19,3,4,2,0,Manchester City
 Bernardo Silva,pt POR,"MF,FW",29,33,29,2670,29.7,4,4,8,4,0,0,7,0,Manchester City
@@ -483,8 +459,6 @@ Scott Carson,eng ENG,GK,38,0,0,,,,,,,,,,,Manchester City
 Issa Kaboré,bf BFA,"DF,MF",23,0,0,,,,,,,,,,,Manchester City
 Josh Wilson-Esbrand,eng ENG,DF,21,0,0,,,,,,,,,,,Manchester City
 Jacob Wright,eng ENG,MF,18,0,0,,,,,,,,,,,Manchester City
-Squad Total,,,26.8,38,418,3420,38.0,71,51,122,68,3,4,59,2,Manchester City
-Opponent Total,,,26.2,38,418,3420,38.0,42,32,74,38,4,4,88,2,Manchester City
 Bruno Fernandes,pt POR,MF,29,36,35,3018,33.5,8,10,18,5,3,3,5,2,Manchester Utd
 André Onana,cm CMR,GK,28,34,34,3060,34.0,0,0,0,0,0,0,0,0,Manchester Utd
 Noussair Mazraoui,ma MAR,DF,26,37,34,2838,31.5,0,1,1,0,0,0,3,0,Manchester Utd
@@ -526,8 +500,6 @@ Godwill Kukonki,eng ENG,DF,16,0,0,,,,,,,,,,,Manchester Utd
 Dermot Mee,nir NIR,GK,21,0,0,,,,,,,,,,,Manchester Utd
 Jack Moorhouse,eng ENG,MF,18,0,0,,,,,,,,,,,Manchester Utd
 Ethan Wheatley,eng ENG,FW,18,0,0,,,,,,,,,,,Manchester Utd
-Squad Total,,,25.5,38,418,3420,38.0,42,29,71,38,4,4,86,3,Manchester Utd
-Opponent Total,,,26.4,38,418,3420,38.0,52,36,88,49,3,4,71,3,Manchester Utd
 Bruno Guimarães,br BRA,MF,26,38,38,3271,36.3,5,6,11,5,0,0,7,0,Newcastle Utd
 Dan Burn,eng ENG,DF,32,37,37,3330,37.0,1,1,2,1,0,0,11,0,Newcastle Utd
 Alexander Isak,se SWE,FW,24,34,34,2756,30.6,23,6,29,19,4,4,1,0,Newcastle Utd
@@ -558,8 +530,6 @@ Sean Neave,eng ENG,FW,17,0,0,,,,,,,,,,,Newcastle Utd
 John Ruddy,eng ENG,GK,37,0,0,,,,,,,,,,,Newcastle Utd
 Leo Shahar,eng ENG,DF,17,0,0,,,,,,,,,,,Newcastle Utd
 Odysseas Vlachodimos,gr GRE,GK,30,0,0,,,,,,,,,,,Newcastle Utd
-Squad Total,,,27.4,38,418,3420,38.0,66,50,116,61,5,6,68,1,Newcastle Utd
-Opponent Total,,,26.3,38,418,3420,38.0,45,41,86,44,1,2,97,3,Newcastle Utd
 Matz Sels,be BEL,GK,32.0,38,38,3420.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,Nott'ham Forest
 Nikola Milenković,rs SRB,DF,26.0,37,37,3330.0,37.0,5.0,2.0,7.0,5.0,0.0,0.0,4.0,0.0,Nott'ham Forest
 Murillo,br BRA,DF,22.0,36,36,3188.0,35.4,2.0,0.0,2.0,2.0,0.0,0.0,6.0,0.0,Nott'ham Forest
@@ -587,8 +557,6 @@ Zach Abbott,eng ENG,DF,18.0,0,0,,,,,,,,,,,Nott'ham Forest
 Wayne Hennessey,wls WAL,GK,37.0,0,0,,,,,,,,,,,Nott'ham Forest
 Carlos Miguel,br BRA,GK,25.0,0,0,,,,,,,,,,,Nott'ham Forest
 Andrew Omobamidele,ie IRL,DF,22.0,0,0,,,,,,,,,,,Nott'ham Forest
-Squad Total,,,26.1,38,418,3420.0,38.0,57.0,42.0,99.0,54.0,3.0,3.0,90.0,2.0,Nott'ham Forest
-Opponent Total,,,26.2,38,418,3420.0,38.0,46.0,35.0,81.0,43.0,3.0,3.0,104.0,2.0,Nott'ham Forest
 Mateus Fernandes,pt POR,MF,20,36,34,2909,32.3,2,4,6,2,0,0,8,0,Southampton
 Kyle Walker-Peters,eng ENG,DF,27,33,33,2918,32.4,0,2,2,0,0,0,5,0,Southampton
 Taylor Harwood-Bellis,eng ENG,DF,22,34,32,2825,31.4,1,0,1,1,0,0,9,0,Southampton
@@ -627,8 +595,6 @@ Ronnie Edwards,eng ENG,DF,21,1,0,12,0.1,0,0,0,0,0,0,0,0,Southampton
 Carlos Alcaraz,ar ARG,MF,21,1,0,10,0.1,0,0,0,0,0,0,0,0,Southampton
 Jayden Moore,,DF,,0,0,,,,,,,,,,,Southampton
 Joe O'Brien-Whitmarsh,ie IRL,MF,19,0,0,,,,,,,,,,,Southampton
-Squad Total,,,25.2,38,418,3420,38.0,25,16,41,25,0,2,89,3,Southampton
-Opponent Total,,,26.2,38,418,3420,38.0,86,61,147,79,7,9,54,1,Southampton
 Pedro Porro,es ESP,DF,24,33,28,2610,29.0,2,6,8,2,0,0,5,0,Tottenham
 Dejan Kulusevski,se SWE,"MF,FW",24,32,27,2389,26.5,7,4,11,7,0,0,3,0,Tottenham
 Dominic Solanke,eng ENG,FW,26,27,25,2201,24.5,9,3,12,8,1,1,0,0,Tottenham
@@ -669,8 +635,6 @@ Yang Minhyeok,kr KOR,MF,18,0,0,,,,,,,,,,,Tottenham
 Callum Olusesi,eng ENG,MF,17,0,0,,,,,,,,,,,Tottenham
 Alfie Whiteman,eng ENG,GK,25,0,0,,,,,,,,,,,Tottenham
 Luca Williams Barnett,eng ENG,FW,15,0,0,,,,,,,,,,,Tottenham
-Squad Total,,,25.0,38,418,3420,38.0,61,47,108,58,3,4,72,1,Tottenham
-Opponent Total,,,26.2,38,418,3420,38.0,61,43,104,58,3,3,85,3,Tottenham
 Max Kilman,eng ENG,DF,27.0,38,38,3348.0,37.2,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,West Ham
 Aaron Wan-Bissaka,cd COD,DF,26.0,36,35,3154.0,35.0,2.0,5.0,7.0,2.0,0.0,0.0,1.0,0.0,West Ham
 Jarrod Bowen,eng ENG,"FW,MF",27.0,34,34,2973.0,33.0,13.0,8.0,21.0,12.0,1.0,1.0,1.0,0.0,West Ham
@@ -700,8 +664,6 @@ Lewis Orford,eng ENG,MF,18.0,2,0,49.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,West H
 Kaelan Casey,eng ENG,DF,19.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham
 Wes Foderingham,eng ENG,GK,33.0,0,0,,,,,,,,,,,West Ham
 Ezra Mayers,bb BRB,DF,17.0,0,0,,,,,,,,,,,West Ham
-Squad Total,,,28.1,38,418,3420.0,38.0,43.0,29.0,72.0,40.0,3.0,3.0,82.0,3.0,West Ham
-Opponent Total,,,26.1,38,418,3420.0,38.0,59.0,45.0,104.0,56.0,3.0,3.0,56.0,1.0,West Ham
 Rayan Aït-Nouri,dz ALG,DF,23,37,37,3109,34.5,4,7,11,4,0,0,7,1,Wolves
 João Gomes,br BRA,MF,23,36,35,2974,33.0,3,1,4,3,0,0,11,1,Wolves
 Nélson Semedo,pt POR,DF,30,34,32,2886,32.1,0,4,4,0,0,0,8,0,Wolves
@@ -739,5 +701,3 @@ Luke Cundle,eng ENG,MF,22,0,0,,,,,,,,,,,Wolves
 Tom Edozie,eng ENG,MF,18,0,0,,,,,,,,,,,Wolves
 Bastien Meupiyou,fr FRA,DF,18,0,0,,,,,,,,,,,Wolves
 Wesley Okoduwa,eng ENG,FW,16,0,0,,,,,,,,,,,Wolves
-Squad Total,,,26.9,38,418,3420,38.0,53,42,95,53,0,0,79,2,Wolves
-Opponent Total,,,26.2,38,418,3420,38.0,66,47,113,59,7,9,85,3,Wolves
